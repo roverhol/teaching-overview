@@ -33,12 +33,5 @@
     "title": "Teaching at Cal Poly Humboldt",
     "section": "Contact",
     "text": "Contact\n\nEmail: rho3 at humboldt.edu\nOffice: BSS 334\nDepartment: Mathematics, Cal Poly Humboldt\nOffice Hours: As posted in Canvas."
-  },
-  {
-    "objectID": "test.html",
-    "href": "test.html",
-    "title": "Test file to trigger workflow",
-    "section": "",
-    "text": "Test file to trigger workflow\nThis is a test file to trigger the GitHub Actions workflow."
   }
 ]
