@@ -14,9 +14,8 @@ nav:
 format:
   html:
     theme: cosmo
-    css: assets/css/humboldt-theme.scss
+    css: assets/css/humboldt-theme.css
     toc: true
-    number-sections: true
     navigation:
       style: sidebar
       background: auto
@@ -26,8 +25,5 @@ format:
 
 # Website metadata
 metadata:
-  author:
-    name: "Dr. Rosanna Overholser"
-    email: "instructor@humboldt.edu"
   date-format: "long"
   lang: "en" 
