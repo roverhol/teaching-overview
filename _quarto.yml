@@ -10,6 +10,7 @@ nav:
 format:
   html:
     theme: cosmo
+    css: assets/css/humboldt-theme.css
     toc: true
     navigation:
       style: sidebar
