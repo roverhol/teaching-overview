@@ -6,10 +6,6 @@ project:
 nav:
   - href: index.qmd
     text: Teaching Overview
-  - href: about.qmd
-    text: About Me
-  - href: contact.qmd
-    text: Contact
 
 format:
   html:
