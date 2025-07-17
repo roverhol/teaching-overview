@@ -1,0 +1,121 @@
+// Humboldt County Coastal Redwood Theme
+// Colors inspired by the natural beauty of Humboldt County
+
+// Color palette
+$redwood-dark: #2d1810;      // Deep redwood bark
+$redwood-medium: #8b4513;    // Rich redwood brown
+$redwood-light: #d2691e;     // Lighter redwood
+$forest-green: #228b22;      // Forest green
+$sage-green: #9ca984;        // Sage/coastal green
+$sand-light: #f5f5dc;        // Light sand
+$ocean-blue: #4682b4;        // Steel blue (ocean)
+$fog-gray: #d3d3d3;          // Coastal fog
+
+// Typography
+$font-family-sans-serif: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+$font-family-serif: Georgia, "Times New Roman", serif;
+
+// Custom styles
+.navbar {
+  background: linear-gradient(135deg, $redwood-dark 0%, $redwood-medium 100%);
+  border-bottom: 3px solid $forest-green;
+}
+
+.navbar-brand {
+  color: $sand-light !important;
+  font-weight: bold;
+  font-family: $font-family-serif;
+}
+
+.navbar-nav .nav-link {
+  color: $sand-light !important;
+  &:hover {
+    color: $sage-green !important;
+  }
+}
+
+// Page header styling
+.page-header {
+  background: linear-gradient(135deg, $redwood-medium 0%, $forest-green 100%);
+  color: $sand-light;
+  padding: 2rem 0;
+  margin-bottom: 2rem;
+}
+
+.page-title {
+  color: $redwood-dark;
+  border-bottom: 3px solid $redwood-light;
+  padding-bottom: 0.5rem;
+}
+
+// Course cards
+.course-card {
+  background: $sand-light;
+  border: 2px solid $sage-green;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin: 1rem 0;
+  transition: all 0.3s ease;
+  
+  &:hover {
+    box-shadow: 0 4px 12px rgba($redwood-dark, 0.2);
+    transform: translateY(-2px);
+  }
+  
+  h3 {
+    color: $redwood-dark;
+    border-bottom: 2px solid $redwood-light;
+    padding-bottom: 0.5rem;
+  }
+}
+
+// Links
+a {
+  color: $ocean-blue;
+  text-decoration: none;
+  
+  &:hover {
+    color: $redwood-medium;
+    text-decoration: underline;
+  }
+}
+
+// Callouts
+.callout-note {
+  background: linear-gradient(135deg, $sand-light 0%, #fafafa 100%);
+  border-left: 4px solid $sage-green;
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 4px;
+}
+
+// Buttons
+.btn-primary {
+  background: $ocean-blue;
+  border-color: $ocean-blue;
+  
+  &:hover {
+    background: $redwood-medium;
+    border-color: $redwood-medium;
+  }
+}
+
+// Footer
+.footer {
+  background: $redwood-dark;
+  color: $sand-light;
+  padding: 2rem 0;
+  margin-top: 3rem;
+  text-align: center;
+}
+
+// Responsive design
+@media (max-width: 768px) {
+  .page-header {
+    padding: 1rem 0;
+  }
+  
+  .course-card {
+    padding: 1rem;
+  }
+} 

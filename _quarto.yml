@@ -1,0 +1,33 @@
+project:
+  type: website
+  title: "Dr. Rosanna Overholser - Teaching"
+
+# Navigation structure
+nav:
+  - href: index.qmd
+    text: Teaching Overview
+  - href: about.qmd
+    text: About Me
+  - href: contact.qmd
+    text: Contact
+
+format:
+  html:
+    theme: cosmo
+    css: assets/css/humboldt-theme.scss
+    toc: true
+    number-sections: true
+    navigation:
+      style: sidebar
+      background: auto
+      collapse-level: 2
+    page-layout: full
+    link-external-newwindow: true
+
+# Website metadata
+metadata:
+  author:
+    name: "Dr. Rosanna Overholser"
+    email: "instructor@humboldt.edu"
+  date-format: "long"
+  lang: "en" 

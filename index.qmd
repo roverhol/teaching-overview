@@ -1,0 +1,55 @@
+---
+title: "Teaching at Cal Poly Humboldt"
+subtitle: "Dr. Rosanna Overholser - Associate Professor, Mathematics"
+---
+
+# Teaching at Cal Poly Humboldt
+
+## About Me
+
+I'm an Associate Professor in the Mathematics Department at Cal Poly Humboldt, California's newest polytechnic university. My research and teaching focus on applied mathematics, data science, and computational methods.
+
+I'm passionate about helping students develop both theoretical understanding and practical skills that prepare them for careers in data analysis, research, and industry applications.
+
+## Our Campus & Location
+
+**Cal Poly Humboldt** is located in the heart of California's North Coast, surrounded by the majestic coastal redwoods of Humboldt County. Our campus sits between the Pacific Ocean and the towering redwood forests, providing a unique learning environment that inspires both academic excellence and environmental stewardship.
+
+The natural beauty of our location - from the rugged coastline to the ancient redwood groves - serves as a constant reminder of the importance of sustainability and the interconnectedness of natural systems. This setting influences our approach to education, emphasizing hands-on learning, environmental awareness, and community engagement.
+
+## Fall 2025 Courses
+
+### [DATA 311: Applied Data Analysis](https://rho3.github.io/data-311-public/)
+**Applied Data Analysis** - A hands-on course covering database design, data visualization, and predictive modeling using real-world datasets.
+
+*[Course materials and schedule available through the link above]*
+
+---
+
+### [Course 2: TBD]
+**Course Title TBD** - Course description coming soon.
+
+*[Course materials will be available here]*
+
+---
+
+### [Course 3: TBD]
+**Course Title TBD** - Course description coming soon.
+
+*[Course materials will be available here]*
+
+---
+
+## Contact Information
+
+- **Email:** [your.email@humboldt.edu]
+- **Office:** [Building/Room Number]
+- **Office Hours:** [Schedule - TBD]
+- **Department:** Mathematics, Cal Poly Humboldt
+
+---
+
+::: {.callout-note}
+## Note
+Course materials are organized by week and include lectures, readings, labs, and assignments. Each course has its own dedicated space with current materials prominently displayed.
+::: 
