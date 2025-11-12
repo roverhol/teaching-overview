@@ -1,0 +1,19 @@
+---
+title: "Courses Taught"
+---
+
+## Courses Taught
+
+### DATA 311: Applied Data Analysis
+
+**Institution:** California Polytechnic State University, Humboldt  
+**Term:** Fall Semester 2025  
+**Location:** Cal Poly Humboldt  
+**Course Website:** [Applied Data Analysis](https://roverhol.github.io/data-311-public/)
+
+**Applied Data Analysis** - A hands-on course to apply your knowledge of database design, data visualization, and predictive modeling to solve real-world problems.
+
+---
+
+*Additional course listings will be added as they become available.*
+

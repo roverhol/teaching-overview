@@ -1,44 +1,52 @@
 ---
-title: "Teaching at Cal Poly Humboldt"
-subtitle: "Dr. Rosanna Overholser - Associate Professor, Mathematics"
+title: "Rosanna Overholser"
+subtitle: "Applied Statistics & Machine Learning | Teaching & Projects"
 ---
+
+<div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
+
+<div style="flex: 1; min-width: 200px; text-align: center;">
+![Redwood forest line drawing](assets/norcalcoast.png){width="100%"}
+<small>Line drawing by ChatGPT</small>
+</div>
+
+<div style="flex: 1; min-width: 200px; text-align: center;">
+![Image of Rosanna Overholser teaching](assets/photo.png){width="100%"}
+<small>Line drawing by ChatGPT from a photograph by Dr. Yoon Kim</small>
+</div>
+
+<div style="flex: 1; min-width: 200px; text-align: center;">
+![Circuit board, causal diagram and mini-batch gradient descent line drawing](assets/three.png){width="100%"}
+<small>Line drawing by ChatGPT</small>
+</div>
+
+</div>
 
 ## About Me
 
-I'm an Associate Professor in the [Mathematics Department](https://www.humboldt.edu/mathematics) at [Cal Poly Humboldt](https://www.humboldt.edu), California's newest polytechnic university. Previously, I taught at Oregon Institute of Technology. I have also worked as a statistician at UC San Diego's Clinical and Translational Research Institute, Ghent University (Belgium), and Ume&#229; University (Sweden). I hold a Ph.D. in mathematics from UCSD, a B.S. in mathematics from Cal Poly San Luis Obispo and an A.S. in mathematics from Bakersfield Community College.
+I teach statistics and data science courses at [Cal Poly Humboldt](https://www.humboldt.edu), California's newest polytechnic university. I hold a Ph.D. in mathematics from UC San Diego, a B.S. in mathematics from Cal Poly San Luis Obispo, and an A.S. in mathematics from Bakersfield Community College.
 
-I'm passionate about helping students develop both theoretical understanding and practical skills that prepare them for thoughtful and rewarding careers.
+Previously, I taught at the Oregon Institute of Technology and have worked as a statistician at UC San Diego's Clinical and Translational Research Institute, Ghent University (Belgium), and Ume&#229; University (Sweden). 
 
 ## Our Campus
 
-**Cal Poly Humboldt** is located on California's North Coast. Our campus sits between the Pacific Ocean and redwood forests, providing a unique learning environment that inspires both academic excellence and environmental stewardship. This setting influences our approach to education, emphasizing hands-on learning, environmental awareness, and community engagement.
+**Cal Poly Humboldt** is located on California's Northern Coast, between the Pacific Ocean and redwood forests. This unique setting influences our approach to education, emphasizing hands-on learning, environmental awareness, and community service.
 
-## Current Teaching
+## Teaching and Projects
 
-### [DATA 311: Applied Data Analysis](https://roverhol.github.io/data-311-public/)
-**Applied Data Analysis** - A hands-on course to apply your knowledge of database design, data visualization, and predictive modeling to solve real-world problems.
+I'm passionate about helping students develop both theoretical understanding and practical skills that prepare them for thoughtful and rewarding careers. My applied work focuses on "appropriate" uses of computing, e.g. identifying and applying methods that connect available data with research and decision-making needs, with an emphasis on identifying the simplest, most robust approach that works well enough. I'm interested in both causal inference and machine learning
 
----
-
-### [Course 2: TBD]
-**Course Title TBD** - Course description coming soon.
-
-*[Course materials will be available here]*
-
----
-
-### [Course 3: TBD]
-**Course Title TBD** - Course description coming soon.
-
-*[Course materials will be available here]*
-
----
+- **[Courses](courses.qmd)** - Course materials for students
+- **[Teaching Materials](materials.qmd)** - Resources and materials for other teachers 
+- **[Projects](projects.qmd)** 
 
 ## Contact
 
 - **Email:** rho3 at humboldt.edu
 - **Office:** BSS 334
 - **Department:** [Mathematics, Cal Poly Humboldt](https://www.humboldt.edu/mathematics)
-- **Office Hours:** As posted in Canvas.
+- **Office Hours:** MW 1:00-4:00pm
 
----
+
+
+<small>This site was made with [Quarto](https://quarto.org/), with help from [Cursor](https://cursor.sh/).</small>

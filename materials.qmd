@@ -1,0 +1,19 @@
+---
+title: "Teaching Materials"
+---
+
+## Teaching Materials
+
+This page is currently under construction. 
+
+<!--
+Teaching materials will be organized here, including:
+
+- Publications (JSM proceedings paper)
+- Causal inference module for introductory statistics
+- Take 5: Projects for an intro stats class
+- Major recommender materials
+- Physical demonstrations in intro statistics
+-->
+---
+

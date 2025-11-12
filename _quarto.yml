@@ -1,11 +1,17 @@
 project:
   type: website
-  title: "Dr. Rosanna Overholser - Teaching"
+  title: "Rosanna Overholser - Applied Statistics & Machine Learning"
 
 # Navigation structure
 nav:
   - href: index.qmd
     text: Teaching Overview
+  - href: courses.qmd
+    text: Courses Taught
+  - href: projects.qmd
+    text: Projects
+  - href: materials.qmd
+    text: Teaching Materials
 
 format:
   html:
