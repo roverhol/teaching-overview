@@ -11,9 +11,20 @@ title: "Courses Taught"
 **Location:** Cal Poly Humboldt  
 **Course Website:** [Applied Data Analysis](https://roverhol.github.io/data-311-public/)
 
-**Applied Data Analysis** - A hands-on course to apply your knowledge of database design, data visualization, and predictive modeling to solve real-world problems.
+**Applied Data Analysis** - A hands-on course to apply your knowledge of data cleaning, data visualization, and predictive modeling to solve real-world problems.
 
 ---
 
-*Additional course listings will be added as they become available.*
+### STAT 109: Introductory Biostatistics
+
+**Institution:** California Polytechnic State University, Humboldt  
+**Term:** Spring Semester 2026  
+**Location:** Cal Poly Humboldt  
+**Course Website:** [Introductory Biostatistics](https://roverhol.github.io/stat-109-public/)
+
+**Introductory Biostatistics** - An introduction to statistical methods and R programming for the students in natural and health sciences.
+
+---
+
+
 

@@ -12,6 +12,8 @@ nav:
     text: Projects
   - href: materials.qmd
     text: Teaching Materials
+  - href: simple-major-recommender.qmd
+    text: Major recommender
 
 format:
   html:

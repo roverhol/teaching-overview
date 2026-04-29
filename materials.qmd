@@ -4,15 +4,16 @@ title: "Teaching Materials"
 
 ## Teaching Materials
 
-This page is currently under construction. 
+This page is currently under construction. A few items are linked below; more will be added over time.
+
+- **[Simple major recommender](simple-major-recommender.qmd)** — overview and link to the **[GitHub repository](https://github.com/roverhol/simple_major_recommender)** (teaching materials for an unsupervised-learning major recommender project, "Learning without labels").
 
 <!--
-Teaching materials will be organized here, including:
+Additional materials to organize here may include:
 
 - Publications (JSM proceedings paper)
 - Causal inference module for introductory statistics
 - Take 5: Projects for an intro stats class
-- Major recommender materials
 - Physical demonstrations in intro statistics
 -->
 ---

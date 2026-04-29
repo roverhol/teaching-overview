@@ -1,37 +1,86 @@
 [
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This page is currently under construction."
+  },
+  {
+    "objectID": "projects.html#projects",
+    "href": "projects.html#projects",
+    "title": "Projects",
+    "section": "",
+    "text": "This page is currently under construction."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Teaching at Cal Poly Humboldt",
+    "title": "Rosanna Overholser",
     "section": "",
-    "text": "I’m an Associate Professor in the Mathematics Department at Cal Poly Humboldt, California’s newest polytechnic university. Previously, I taught at Oregon Institute of Technology. I have also worked as a statistician at UC San Diego’s Clinical and Translational Research Institute, Ghent University (Belgium), and Umeå University (Sweden). I hold a Ph.D. in mathematics from UCSD, a B.S. in mathematics from Cal Poly San Luis Obispo and an A.S. in mathematics from Bakersfield Community College.\nI’m passionate about helping students develop both theoretical understanding and practical skills that prepare them for thoughtful and rewarding careers."
+    "text": "Line drawing by ChatGPT\n\n\n Line drawing by ChatGPT from a photograph by Dr. Yoon Kim\n\n\n Line drawing by ChatGPT"
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
-    "title": "Teaching at Cal Poly Humboldt",
-    "section": "",
-    "text": "I’m an Associate Professor in the Mathematics Department at Cal Poly Humboldt, California’s newest polytechnic university. Previously, I taught at Oregon Institute of Technology. I have also worked as a statistician at UC San Diego’s Clinical and Translational Research Institute, Ghent University (Belgium), and Umeå University (Sweden). I hold a Ph.D. in mathematics from UCSD, a B.S. in mathematics from Cal Poly San Luis Obispo and an A.S. in mathematics from Bakersfield Community College.\nI’m passionate about helping students develop both theoretical understanding and practical skills that prepare them for thoughtful and rewarding careers."
+    "title": "Rosanna Overholser",
+    "section": "About Me",
+    "text": "About Me\nI’m an Associate Professor in the Mathematics Department at Cal Poly Humboldt, California’s newest polytechnic university. I hold a Ph.D. in mathematics from UC San Diego, a B.S. in mathematics from Cal Poly San Luis Obispo, and an A.S. in mathematics from Bakersfield Community College.\nPreviously, I taught at the Oregon Institute of Technology and have worked as a statistician at UC San Diego’s Clinical and Translational Research Institute, Ghent University (Belgium), and Umeå University (Sweden)."
   },
   {
     "objectID": "index.html#our-campus",
     "href": "index.html#our-campus",
-    "title": "Teaching at Cal Poly Humboldt",
+    "title": "Rosanna Overholser",
     "section": "Our Campus",
-    "text": "Our Campus\nCal Poly Humboldt is located on California’s North Coast. Our campus sits between the Pacific Ocean and redwood forests, providing a unique learning environment that inspires both academic excellence and environmental stewardship. This setting influences our approach to education, emphasizing hands-on learning, environmental awareness, and community engagement."
+    "text": "Our Campus\nCal Poly Humboldt is located on California’s Northern Coast, between the Pacific Ocean and redwood forests. This unique setting influences our approach to education, emphasizing hands-on learning, environmental awareness, and community service."
   },
   {
-    "objectID": "index.html#current-teaching",
-    "href": "index.html#current-teaching",
-    "title": "Teaching at Cal Poly Humboldt",
-    "section": "Current Teaching",
-    "text": "Current Teaching\n\nDATA 311: Applied Data Analysis\nApplied Data Analysis - A hands-on course to apply your knowledge of database design, data visualization, and predictive modeling to solve real-world problems.\n\n\n\n[Course 2: TBD]\nCourse Title TBD - Course description coming soon.\n[Course materials will be available here]\n\n\n\n[Course 3: TBD]\nCourse Title TBD - Course description coming soon.\n[Course materials will be available here]"
+    "objectID": "index.html#teaching-resources",
+    "href": "index.html#teaching-resources",
+    "title": "Rosanna Overholser",
+    "section": "Teaching Resources",
+    "text": "Teaching Resources\n\nCourses Taught - A complete list of courses I’ve taught, including dates and locations\nProjects - Teaching projects and initiatives\nTeaching Materials - Resources, modules, and materials for statistics education"
   },
   {
     "objectID": "index.html#contact",
     "href": "index.html#contact",
-    "title": "Teaching at Cal Poly Humboldt",
+    "title": "Rosanna Overholser",
     "section": "Contact",
-    "text": "Contact\n\nEmail: rho3 at humboldt.edu\nOffice: BSS 334\nDepartment: Mathematics, Cal Poly Humboldt\nOffice Hours: As posted in Canvas."
+    "text": "Contact\n\nEmail: rho3 at humboldt.edu\nOffice: BSS 334\nDepartment: Mathematics, Cal Poly Humboldt\nOffice Hours: MW 1:00-4:00pm\n\nThis site was made with Quarto, with help from Cursor."
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Courses Taught",
+    "section": "",
+    "text": "Institution: California Polytechnic State University, Humboldt\nTerm: Fall Semester 2025\nLocation: Cal Poly Humboldt\nCourse Website: Applied Data Analysis\nApplied Data Analysis - A hands-on course to apply your knowledge of database design, data visualization, and predictive modeling to solve real-world problems.\n\nAdditional course listings will be added as they become available."
+  },
+  {
+    "objectID": "courses.html#courses-taught",
+    "href": "courses.html#courses-taught",
+    "title": "Courses Taught",
+    "section": "",
+    "text": "Institution: California Polytechnic State University, Humboldt\nTerm: Fall Semester 2025\nLocation: Cal Poly Humboldt\nCourse Website: Applied Data Analysis\nApplied Data Analysis - A hands-on course to apply your knowledge of database design, data visualization, and predictive modeling to solve real-world problems.\n\nAdditional course listings will be added as they become available."
+  },
+  {
+    "objectID": "materials.html",
+    "href": "materials.html",
+    "title": "Teaching Materials",
+    "section": "",
+    "text": "This page is currently under construction."
+  },
+  {
+    "objectID": "materials.html#teaching-materials",
+    "href": "materials.html#teaching-materials",
+    "title": "Teaching Materials",
+    "section": "",
+    "text": "This page is currently under construction."
+  },
+  {
+    "objectID": "index.html#teaching-and-projects",
+    "href": "index.html#teaching-and-projects",
+    "title": "Rosanna Overholser",
+    "section": "Teaching and Projects",
+    "text": "Teaching and Projects\nI’m passionate about helping students develop both theoretical understanding and practical skills that prepare them for thoughtful and rewarding careers. My applied work focuses on “appropriate” uses of computing, e.g. identifying and applying methods that connect available data with research and decision-making needs, with an emphasis on identifying the simplest, most robust approach that works well enough. I’m interested in both causal inference and machine learning\n\nCourses - Course materials for students\nTeaching Materials - Resources and materials for other teachers\nProjects"
   }
 ]
