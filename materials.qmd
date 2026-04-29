@@ -4,8 +4,6 @@ title: "Teaching Materials"
 
 ## Teaching Materials
 
-This page is currently under construction. A few items are linked below; more will be added over time.
-
 - **[Simple major recommender](simple-major-recommender.qmd)** — overview and link to the **[GitHub repository](https://github.com/roverhol/simple_major_recommender)** (teaching materials for an unsupervised-learning major recommender project, "Learning without labels").
 
 <!--
