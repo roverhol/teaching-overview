@@ -4,10 +4,8 @@ title: "Simple major recommender"
 
 # Simple major recommender
 
-Teaching materials for a student project that uses **basic unsupervised learning** to build a *major recommender*: students work with structured data, explore clustering or related methods, justify modeling choices, and communicate recommendations clearly and responsibly.
-
-All notebooks, data notes, and other assets are kept in a public GitHub repository so they can be cloned, forked, or opened in Colab without depending on this site.
+Teaching materials for a student project that uses basic unsupervised learning to build a major recommender
 
 ## Repository
 
-**[simple_major_recommender on GitHub](https://github.com/roverhol/simple_major_recommender)** — README, project description, and (as you add them) notebooks and supporting files.
+**[simple_major_recommender on GitHub](https://github.com/roverhol/simple_major_recommender)** 
